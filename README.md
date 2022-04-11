@@ -9,3 +9,28 @@ The link for the NN Code is given below:
 
 [Task 3](https://github.com/JaithraVarma/IITGN_TASKS/blob/main/TASK3%20(1).ipynb) 
 
+TASK 2:
+Implemented a sampling method from scratch to draw samples from multivariate normal distribution in JAX.
+
+The link for the code is given below.
+
+[Task 2](https://github.com/JaithraVarma/IITGN_TASKS/blob/main/TASK2.ipynb)
+
+TASK 4:
+Implemented Bayes Linear Regression from scratch using blackjax. Used blackjax's Random Walk RMH kernel to sample from the posterior distribution.
+
+The link for the code is given below.
+
+[Task 4](https://github.com/JaithraVarma/IITGN_TASKS/blob/main/TASK4.ipynb)
+
+TASK 1:
+Animated bivariate normal distribution from scratch.
+
+The link for the code is given below.
+
+[Task 1](https://github.com/JaithraVarma/IITGN_TASKS/blob/main/TASK1.ipynb)
+
+
+
+
+
